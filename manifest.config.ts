@@ -6,11 +6,17 @@ export default defineManifest({
   name: 'Zoekerr',
   version: pkg.version,
   icons: {
-    48: 'logo.png', 
+    16: 'logo-16.png',
+    32: 'logo-32.png',
+    48: 'logo-48.png',
+    128: 'logo-128.png',
   },
   action: {
     default_icon: {
-      48: 'logo.png',
+      16: 'logo-16.png',
+      32: 'logo-32.png',
+      48: 'logo-48.png',
+      128: 'logo-128.png',
     },
   },
   background: {
