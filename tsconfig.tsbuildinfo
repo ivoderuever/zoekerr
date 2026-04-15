@@ -1,0 +1,1 @@
+{"root":["./manifest.config.ts","./vite.config.ts","./src/background/index.ts","./src/content/main.ts","./src/content/views/app.vue"],"version":"5.8.3"}
